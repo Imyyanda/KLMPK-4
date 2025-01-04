@@ -115,23 +115,10 @@
         }
     </style>
 </head>
+@extends('layouts.app')
 
-<body>
-
-    <header>
-        <h1>Program Studi di Sekolah Tinggi Teknologi Cipasung</h1>
-        <p>Temukan Program Studi yang Sesuai dengan Minat dan Karier Anda</p>
-    </header>
-    <nav>
-        <a href="index.html">Beranda</a>
-        <a href="Profil.html">Profil Kampus</a>
-        <a href="Program Studi.html">Program Studi</a>
-        <a href="Fasilitas.html">Fasilitas</a>
-        <a href="Ekstrakulikuler.html">UKM</a>
-        <a href="PPMB Online.html">PPMB Online</a>
-        <a href="Beasiswa.html">Beasiswa</a>
-    </nav>
-    <div class="container">
+@section('content')
+<div class="container">
         <h2>Daftar Program Studi</h2>
 
         <div class="program-list">
@@ -176,17 +163,7 @@
             </div>
         </div>
     </div>
+@endsection
 
-    <footer>
-        <p>Ikuti kami di:</p>
-        <a href="#">Facebook</a>
-        <a href="#">Twitter</a>
-        <a href="#">Instagram</a>
-        <div class="contact">
-            <p>&copy; 2024 sttcipasung. Semua Hak Dilindungi.</p>
-        </div>
-    </footer>
-
-</body>
 
 </html>

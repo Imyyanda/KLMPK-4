@@ -15,9 +15,11 @@
 <body>
 
     @include('header')
+    @include('partials.navbar')
     @yield('content')
     @include('footer')
 
 </body>
+
 
 </html>
