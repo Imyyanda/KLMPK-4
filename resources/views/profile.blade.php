@@ -15,17 +15,7 @@
             background-color: #f4f4f4;
         }
 
-        header {
-            background-color: #2ea042;
-            color: #fff;
-            padding: 20px 0;
-            text-align: center;
-        }
 
-        header img {
-            width: 100px;
-            height: auto;
-        }
 
         /* Navigation Bar */
         nav {
@@ -97,9 +87,6 @@
 @extends('layouts.app')
 
 @section('content')
-    <img src="https://th.bing.com/th/id/OIP.JPoUUz-C51vqp6CKcDmurwHaHa?w=167&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
-            alt="Logo Kampus" style="height: 121.828; width: 145px;">
-    <h1 style="margin-top: 0px;">
     <div class="container">
 
 <section class="content-section">

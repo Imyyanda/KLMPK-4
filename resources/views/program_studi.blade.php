@@ -15,12 +15,6 @@
             background-color: #f4f4f4;
         }
 
-        header {
-            background-color: #2ea042;
-            color: white;
-            padding: 20px 0;
-            text-align: center;
-        }
 
         /* Navigation Bar */
         nav {
@@ -143,6 +137,42 @@
             </div>
 
             <!-- Program Studi 2 -->
+            <div class="program-card">
+                <h3>Teknik Industri</h3>
+                <p>
+                    Program Studi Industri menawarkan pembelajaran dalam bidang industri, serta pengelolaan industri
+                    secara efektif dan efisien.
+                </p>
+                <div class="duration">
+                    <strong>Durasi Studi:</strong> 4 Tahun
+                </div>
+                <div class="facilities">
+                    <strong>Fasilitas:</strong>
+                    <ul>
+                        <li>Perpustakaan dengan Koleksi Bisnis Lengkap</li>
+                        <li>Program Magang di Perusahaan Mitra</li>
+                        <li>Wi-Fi Gratis di Kampus</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="program-card">
+                <h3>Teknik Industri</h3>
+                <p>
+                    Program Studi Industri menawarkan pembelajaran dalam bidang industri, serta pengelolaan industri
+                    secara efektif dan efisien.
+                </p>
+                <div class="duration">
+                    <strong>Durasi Studi:</strong> 4 Tahun
+                </div>
+                <div class="facilities">
+                    <strong>Fasilitas:</strong>
+                    <ul>
+                        <li>Perpustakaan dengan Koleksi Bisnis Lengkap</li>
+                        <li>Program Magang di Perusahaan Mitra</li>
+                        <li>Wi-Fi Gratis di Kampus</li>
+                    </ul>
+                </div>
+            </div>
             <div class="program-card">
                 <h3>Teknik Industri</h3>
                 <p>

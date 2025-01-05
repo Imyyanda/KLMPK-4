@@ -15,12 +15,6 @@
             background-color: #f4f4f4;
         }
 
-        header {
-            background-color: #2ea042;
-            color: white;
-            padding: 20px 0;
-            text-align: center;
-        }
 
         /* Navigation Bar */
         nav {
@@ -67,16 +61,16 @@
             border: 1px solid #ddd;
             border-radius: 8px;
             width: 30%;
+            height: 70%;
             margin-bottom: 20px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             padding: 20px;
             text-align: center;
         }
-
         .facility-card img {
-            width: 100%;
-            height: auto;
-            border-radius: 8px;
+            width: 320px;
+            height: 200px; /* Atur tinggi gambar */
+            object-fit: cover; /* Potong gambar agar sesuai */
         }
 
         .facility-card h3 {
@@ -123,6 +117,7 @@
                 <p>
                     Sekolah Tinggi Teknologi Cipasung menyediakan ruang kuliah dengan fasilitas multimedia, dan sistem
                     proyektor untuk memudahkan proses pembelajaran.
+                    
                 </p>
             </div>
 

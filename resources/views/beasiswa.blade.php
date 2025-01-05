@@ -15,13 +15,6 @@
             background-color: #f4f4f4;
         }
 
-        header {
-            background-color: #2ea042;
-            color: white;
-            padding: 20px 0;
-            text-align: center;
-        }
-
         /* Navigation Bar */
         nav {
             background-color: #34495e;
